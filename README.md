@@ -13,7 +13,7 @@
 ## Harjoitustehtävä  
 - lisätty opiskelijalle uusia tietoja (sähköposti, ryhmäID) tietokantaan sekä käyttöliittymään
 - lisätty toimimaan yksittäisen opiskelijan poisto ja opiskelijan tietojen muutos sekä kaikkien opiskelijoiden haku
-- lisätty ohjelmaan toinen tietokantataulu ryhma ja viiteyhteys taulujen välille
+- lisätty ohjelmaan toinen tietokantataulu Ryhma ja viiteyhteys taulujen välille
 - käyttöliittymää muokattu ja lisätty tarvittavat toiminnot ryhmän tietojen käsittelyyn: 'Luo uusi ryhmä' ja 'Hae/Muokkaa ryhmää'
 - jo luodun ryhmän poistaminen ei ole mahdollista, joten ohjelma antaa tästä varoituksen ryhmää luodessa 
 
