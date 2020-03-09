@@ -1,6 +1,7 @@
 # Opiskelijatietokanta 
 - Tekijä: Mia Kauppila, maaliskuu 2019  
 - Tekniikat: Java (Netbeans IDE 8.2), MySQL (phpMyAdmin)
+- Graafinen käyttöliittymä ja MySql-tietokanta paikallisesti omalla koneella eli localhost
 - Ohjelmassa on seuraavat toiminnot:  
   - Lisää opiskelija
   - Hae opiskelijan tiedot
